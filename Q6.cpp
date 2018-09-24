@@ -8,7 +8,7 @@ Here the last number should have been 6. But it is 7 because we skipped 4.
 
 using namespace std;
 
-int n[6]={1,2,3,4,5,6};
+int n[6]={1,2,4,5,6,7};
 
 int length = sizeof(n)/sizeof(int); //length of an integer array
 
