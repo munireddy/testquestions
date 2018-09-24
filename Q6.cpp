@@ -47,7 +47,7 @@ int main() {
     
     cout<<"Missing number in n[] is: " << solution;
     
-    return 0; //do we need to return 0?
+    return 0;
 }
 	
 
