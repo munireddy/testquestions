@@ -3,6 +3,10 @@ Q1. Write a fuction to implement mem copy function .
     input : char * src
     output : char * dest 
     don't use library funtions. Allocate memory for  dest in the the function
+    char * src is a pointer to a string.
+    char * dest is a pointer to a string.
+    *src is pointing to mexico
+    *dest should have mexico as content.
 */
 
 #include <iostream>
