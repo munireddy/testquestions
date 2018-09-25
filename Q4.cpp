@@ -9,3 +9,5 @@
 6. Inheritance can be supported, but static function may not be overriden.
    The base class  must be delcared a friend of the derived class (in order to access the protected constructor)
 */
+
+// Need to workout more this concept
